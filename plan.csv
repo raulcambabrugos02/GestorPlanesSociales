@@ -1,0 +1,8 @@
+package es.upm.etsisi.iwsim21.grupo5.poo.modelo.exceptions.actividades;
+
+public class ActividadesException extends RuntimeException{
+    public ActividadesException(String message) {
+        super(message);
+    }
+
+}

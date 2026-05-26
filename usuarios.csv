@@ -1,0 +1,8 @@
+package es.upm.etsisi.iwsim21.grupo5.poo.modelo.exceptions.actividades;
+
+public class ActividadesTipoException extends ActividadesException {
+
+    public ActividadesTipoException(String message) {
+        super(message);
+    }
+}
